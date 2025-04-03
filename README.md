@@ -32,6 +32,10 @@ L'application suit une architecture standard pour un projet Vue 3 + TypeScript +
 │   └── style.css         # Styles globaux
 ├── index.html            # Template HTML principal
 ├── tsconfig.json         # Configuration TypeScript
+├── package.json
+├── package-lock.json
+├── tsconfig.app.json
+├── tsconfig.node.json
 └── vite.config.ts        # Configuration Vite
 ```
 
