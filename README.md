@@ -1,4 +1,4 @@
-# # Rapport technique - SpaceX Launch Tracker
+## Rapport technique - SpaceX Launch Tracker
 
 ## 1. Aperçu du projet
 
